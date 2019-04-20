@@ -1,0 +1,8 @@
+Red eye = true
+WB = 36
+Filter: Гауссовское = 3
+Filter: Медианное = 5
+Filter: Двухстороннее = 40
+Brigth = 33
+Sat = 29
+Sharpness = 46
